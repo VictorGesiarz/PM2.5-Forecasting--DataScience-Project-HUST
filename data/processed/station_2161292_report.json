@@ -1,0 +1,21 @@
+{
+  "raw_records": 17175,
+  "negative_or_sentinel": 57,
+  "above_max": 0,
+  "record_interval": "0 days 01:00:00",
+  "duplicates_merged": 0,
+  "stuck_values": 0,
+  "grid_hours": 24218,
+  "valid_hours": 17118,
+  "coverage": 0.7068296308530845,
+  "location_id": 2161292,
+  "name": "Chi c\u1ee5c B\u1ea3o v\u1ec7 M\u00f4i tr\u01b0\u1eddng",
+  "lat": 21.0152,
+  "lon": 105.79990000000001,
+  "days_total": 1010,
+  "days_valid": 646,
+  "days_excluded": 364,
+  "feature_rows_complete": 361,
+  "first_day": "2024-01-29",
+  "last_day": "2026-11-03"
+}

@@ -1,0 +1,40 @@
+location_id,name,>=2 winters with >=85% hours,>=85% hourly completeness,identified station,data until >= 2025,criteria_met
+7441,Hanoi,True,False,True,True,3
+2161292,Chi cục Bảo vệ Môi trường,False,False,True,True,2
+4946812,"Công viên hồ điều hòa Nhân Chính, Khuất Duy Tiến",False,True,True,True,3
+4946813,ĐH Bách Khoa - cổng Parabol đường Giải Phóng,False,True,True,True,3
+2161320,Vân Hà,False,True,True,True,3
+2161290,An Khánh,False,False,True,True,2
+4946811,556 Nguyễn Văn Cừ,False,True,True,True,3
+2161323,Xuân Mai,False,False,True,True,2
+2161312,Sóc Sơn,False,False,True,True,2
+2161311,Sài Sơn,False,False,True,True,2
+2161305,Liên Quan,False,False,True,True,2
+2161309,Pháp Vân,False,False,True,True,2
+2539,US Diplomatic Post: Hanoi,False,True,True,False,2
+2161296,Đào Duy Từ,False,False,True,True,2
+2161306,Minh Khai - Bắc Từ Liêm,False,False,True,True,2
+2161310,Quảng Phú Cầu,False,False,True,False,1
+2161319,Vân Đình,False,False,True,True,2
+2161294,Cung thiếu nhi,False,False,True,True,2
+2161317,Thanh Xuân - Sóc Sơn,False,False,True,False,1
+2161302,Kim Bài,False,False,True,False,1
+2161293,Chúc Sơn,False,True,True,True,3
+2161299,Hàng Đậu,False,False,True,False,1
+2161301,Khương Trung,False,False,True,False,1
+2161291,Cầu Diễn,False,False,True,False,1
+2161297,Đội Bình,False,False,True,False,1
+2161298,Đông Kinh Nghĩa Thục,False,False,True,False,1
+2161321,Văn Quán,False,False,True,False,1
+2161314,Tây Hồ Tây,False,False,True,False,1
+2161318,Tứ Liên,False,False,True,False,1
+2161313,Tân Mai,False,False,True,False,1
+2161303,Kim Liên,False,False,True,False,1
+2161316,Thành Công,False,False,True,False,1
+2161307,Mỹ Đình,False,False,True,False,1
+2161304,Lê Trực,False,False,True,False,1
+2161300,Hoàn Kiếm,False,False,True,False,1
+2161295,Đầm Trấu,False,False,True,False,1
+2161308,Phạm Văn Đồng,False,True,True,False,2
+2161315,Tây Mỗ,False,False,True,False,1
+2161322,Võng La,False,True,True,False,2

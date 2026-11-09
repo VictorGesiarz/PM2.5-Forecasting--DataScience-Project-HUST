@@ -1,0 +1,21 @@
+{
+  "raw_records": 59387,
+  "negative_or_sentinel": 8360,
+  "above_max": 0,
+  "record_interval": "0 days 01:00:00",
+  "duplicates_merged": 0,
+  "stuck_values": 0,
+  "grid_hours": 73751,
+  "valid_hours": 51027,
+  "coverage": 0.6918821439709292,
+  "location_id": 7441,
+  "name": "Hanoi",
+  "lat": 21.021939,
+  "lon": 105.818806,
+  "days_total": 3074,
+  "days_valid": 2080,
+  "days_excluded": 994,
+  "feature_rows_complete": 1179,
+  "first_day": "2016-11-09",
+  "last_day": "2025-04-09"
+}
